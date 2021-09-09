@@ -1,4 +1,4 @@
-## Winning Solution PCIC 2021: Causal Inference and Recommendation([link](https://competition.huaweicloud.com/information/1000041488/introduction))
+## Winning Solution of PCIC 2021: Causal Inference and Recommendation([link](https://competition.huaweicloud.com/information/1000041488/introduction))
 This repository provides our winning solution for the PCIC 2021: Causal Inference and Recommendation.
 
 If you have any questions, please feel free to contact by issues or yitianartsky@gmail.com.
